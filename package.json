@@ -1,0 +1,19 @@
+{
+  "name": "sum",
+  "version": "1.0.0",
+  "description": "Returns the sum of elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfolv/sum.git"
+  },
+  "author": "Lucas Oliveira <inbox.lucasoliveira@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lfolv/sum/issues"
+  },
+  "homepage": "https://github.com/lfolv/sum#readme"
+}
