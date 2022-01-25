@@ -1,5 +1,5 @@
-function sum(array) {
-  return array.reduce((acc, value) => acc + value, 0);
+function sum(array, initial = 0) {
+  return array.reduce((acc, value) => acc + value, initial);
 }
 
 module.exports = sum;

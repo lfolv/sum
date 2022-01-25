@@ -11,3 +11,7 @@ test("with a array of numbers", () => {
 test("with another array of numbers", () => {
   expect(sum([10, 100, 60, 1, 0])).toBe(171);
 });
+
+test('with a initial value', () => {
+  expect(sum([1, 2, 3], 6)).toBe(12)
+})
